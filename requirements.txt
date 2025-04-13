@@ -4,4 +4,3 @@ PyPDF2
 python-docx
 reportlab
 scikit-learn
-imaplib
