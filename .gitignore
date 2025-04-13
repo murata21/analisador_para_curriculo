@@ -1,0 +1,2 @@
+# Ignorar o arquivo de configuração do Streamlit com a chave da API
+.streamlit/secrets.toml
